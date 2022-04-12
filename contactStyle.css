@@ -1,0 +1,71 @@
+footer
+{
+  text-align: center;
+  width: 99%;
+  background-color: black; 
+  color: darkgoldenrod; 
+  position: absolute;
+  bottom:0;
+
+}
+
+nav {
+  font: bold 38px Arial, Verdana, sans-serif; 
+  text-align: center; 
+  background: rgba(50,50,50,0.3); 
+}
+
+a:hover {
+  color: goldenrod;
+}
+
+.getInTouch{
+font-size: 75px;
+text-align: center; 
+  width: 100% 
+}
+
+.contact-page{
+  background: url("images/pasadenaLandscape.jpeg");
+  background-size: cover;
+}
+
+.link{
+text-decoration: none;
+color: #cba8ff;
+  padding: 50px; 
+
+  
+}
+
+.h6Contact { 
+  font-size: 35px;
+  text-align: center
+}
+
+.contact-form {
+  font-size: 25px;
+   color: black;
+}
+
+
+.my-form label {
+  display: block;
+  text-align: center; 
+  color: rgb(56, 48, 40);
+  ; 
+}
+
+.my-form input {
+  padding: 10px;
+  width: 50% ;
+  text-align: center 
+}
+
+.input-center{
+  text-align: center; 
+}
+
+.contact-form {
+background-color: rgba(252, 231, 182,0.2)
+}

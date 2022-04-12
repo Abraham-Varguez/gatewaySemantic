@@ -1,0 +1,51 @@
+footer
+{
+  text-align: center;
+  width: 100%;
+  color: darkgoldenrod; 
+ background-color: black; 
+}
+
+nav {
+  font: bold 38px Arial, Verdana, sans-serif;
+  text-align: center; 
+  background: rgba(50,50,50,0.3);
+}
+a:hover {
+  color: goldenrod;
+}
+
+.title-1{  
+  margin: 0 ;
+  padding: 0; 
+  background-image: url("images/pasadena-hero.jpeg"); 
+  height: 800px; 
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+} 
+.titleColor {
+ color: #083949;
+  font-size: 75px;
+  
+}
+
+.bodyIndex {
+ background: linear-gradient(to bottom,steelblue,darkgoldenrod);
+ backgound-repeat: no-repeat;
+  
+}
+
+.link{
+text-decoration: none;
+  color: #cba8ff;
+  padding: 50px; 
+}
+
+.h3index {
+  font-size: 50px 
+}
+
+p {
+  font-size: 25px 
+}

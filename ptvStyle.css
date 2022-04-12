@@ -1,0 +1,48 @@
+footer
+{
+  text-align: center;
+  width: 100%;
+  color: darkgoldenrod; 
+ background-color: black; 
+}
+
+nav {
+  font: bold 38px Arial, Verdana, sans-serif; 
+  text-align: center; 
+  background: rgba(50,50,50,0.3)
+}
+
+body{
+background: linear-gradient(to bottom,rgb(255, 5, 80),forestgreen);
+}
+
+p {
+font-size: 25px 
+}
+.link{
+text-decoration: none;
+  color: #cba8ff;
+  padding: 50px; 
+}
+
+a:hover {
+  color: goldenrod;
+}
+
+.ptvTitle{
+  font-size: 50px; 
+  font-family: Impact, fantasy;
+}
+
+.title {
+  width:100% ;
+  text-psotion: center;
+  font: 85px Papyrus, fantasy; 
+  margin: 0;
+  text-decoration: underline;
+  text-align: center; 
+
+  .rose-parade {
+    width: 500px;
+    height: 300px 
+  }
